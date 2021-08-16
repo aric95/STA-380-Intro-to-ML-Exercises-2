@@ -26,7 +26,7 @@ The following Raw Files are present:
 
 ## Authors
 
-Aritra Chowdhury - [aric95](https://github.com/aric95)
+Aritra Chowdhury - [aric95](https://github.com/aric95)\n
 Soumi Basu - [soumibasu0193](https://github.com/soumibasu0193)
 Vishu Agarwal - [vishuagarwal1](https://github.com/vishuagarwal1)
 Yashpreet Kaur - [yashpreet769](https://github.com/yashpreet769)
