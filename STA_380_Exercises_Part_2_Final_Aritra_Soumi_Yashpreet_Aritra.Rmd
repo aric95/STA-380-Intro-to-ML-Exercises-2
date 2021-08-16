@@ -1439,7 +1439,7 @@ temp_knn_flag<-ifelse(as.integer(knn_pred)==as.integer(test.author),1,0)
 cat("Training KNN model without dimensional reduction and predicting on test data yields an accuracy of : ",sum(temp_knn_flag)*100/nrow(temp_knn),"%","\n")
 ```
 
-We don't see any improvement in the KNN accuracy after reducing the dimension as well. Hence, we get the **best accuracy of 65% using Random Forest model without reducing the dimension of the data**. 
+We don't see any improvement in the KNN accuracy after reducing the dimension as well. Hence, we get the **best accuracy of 61% using Random Forest model without reducing the dimension of the data**. 
 
 **---------------------------------------------------End of Problem---------------------------------------------------**
   
